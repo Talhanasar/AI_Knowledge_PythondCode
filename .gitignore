@@ -1,0 +1,94 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environment
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Pyre type checker
+.pyre/
+
+# Pytest cache
+.pytest_cache/
+.cache/
+
+# Coverage reports
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright
+.pyright/
+
+# PyCharm IDE settings
+.idea/
+*.iml
+
+# VSCode settings
+.vscode/
+.history/
+
+# PyInstaller
+# Usually contains a lot of stuff, generally not needed
+# in version control.
+dist/
+build/
+
+# Unit test / coverage reports
+*.cover
+*.py[cod]
+coverage.xml
+*.hypothesis/
+
+# Translations
+*.mo
+*.pot
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
